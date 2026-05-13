@@ -1,6 +1,6 @@
 import org.jetbrains.kotlin.gradle.dsl.KotlinJvmProjectExtension
 
-plugins { 
+plugins {
 	java
 	kotlin("jvm") version "2.3.20"
 	kotlin("kapt") version "2.3.20"
